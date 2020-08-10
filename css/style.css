@@ -28,3 +28,9 @@ footer{
     color:white;
     font-weight: 900;
 }
+.arredondando{
+    border-radius: 10px;
+}
+.alinhamento{
+    text-align: justify;
+}
