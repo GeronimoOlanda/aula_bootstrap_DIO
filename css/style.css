@@ -1,0 +1,30 @@
+:root{
+    --primary-color:#27ae60;
+    --secundary-color:#ecf0f1;
+}
+body{
+    font-size: 16pt;
+   background-color: var(--secundary-color);    
+}
+.navbar{
+    background-color: var(--primary-color);
+}
+.quem-somos{
+    background-color: var(--secundary-color) ;
+}
+.margin{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+p{
+    padding-top:50px;
+}
+footer{
+    background-color: var(--primary-color);
+    text-align: center;
+    padding-top:3%;
+    width: 100%;
+    height: 100px;
+    color:white;
+        font-weight: bold;
+}
